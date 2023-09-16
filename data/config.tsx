@@ -44,21 +44,21 @@ const siteConfig = {
       <>
         Built by <Link href='https://twitter.com/Pagebakers'>Enemies Of Syntax</Link>
       </>
-    )
-    // links: [
-    //   {
-    //     href: 'mailto:hello@saas-ui.dev',
-    //     label: 'Contact'
-    //   },
-    //   {
-    //     href: 'https://twitter.com/saas_js',
-    //     label: <FaTwitter size='14' />
-    //   },
-    //   {
-    //     href: 'https://github.com/saas-js/saas-ui',
-    //     label: <FaGithub size='14' />
-    //   }
-    // ]
+    ),
+    links: [
+      // {
+      //   href: 'mailto:kjmickey',
+      //   label: 'Contact'
+      // },
+      // {
+      //   href: 'https://twitter.com/saas_js',
+      //   label: <FaTwitter size='14' />
+      // },
+      {
+        href: 'https://github.com/codingmickey/YASH-Hackathon',
+        label: <FaGithub size='14' />
+      }
+    ]
   },
   signup: {
     title: 'Start building with Saas UI',

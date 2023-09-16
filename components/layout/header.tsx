@@ -42,6 +42,7 @@ export const Header = (props: HeaderProps) => {
           <Box>
             <Image
               src={'/static/logo.png'}
+              alt='Futurify Logo'
               width={50}
               height={50}
               onClick={(e) => {
