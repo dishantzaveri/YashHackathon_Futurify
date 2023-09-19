@@ -2,22 +2,12 @@
 
 "Futurify" is an innovative Predictive Consumer Insights Platform that leverages advanced AI-driven predictive analytics to decode current consumer behaviour and project future trends. By amalgamating sophisticated data analysis with cutting-edge machine learning techniques, Futurify empowers businesses to anticipate shifting consumer preferences. This platform not only enhances strategic decision-making but also enables targeted marketing campaigns that resonate with upcoming customer behaviours. Embracing Futurify allows enterprises to proactively adapt and cater to the dynamic landscape of consumer preferences, thereby gaining a competitive edge in the market.
 
-Website:
+![WhatsApp Image 2023-09-15 at 11 46 51 PM (1)](https://github.com/dishantzaveri/YashHackathon_Futurify/assets/80118978/c6e62947-3389-43ca-a8d5-2caf02d3b1c2)
 
-Home Page:
-![image](https://github.com/dishantzaveri/YashHackathon_Futurify/blob/images/WhatsApp%20Image%202023-09-15%20at%2011.46.51%20PM%20(1).jpeg)
-Admin Page:
-![image](https://user-images.githubusercontent.com/52329525/216803389-b4b584dd-3435-4d8a-abb3-9d676b00bb61.png)
-Voting Page:
-![image](https://user-images.githubusercontent.com/52329525/216803399-8276e17e-113d-45d8-a631-174c10f0dd09.png)
-Add Tweet Page:
-![image](https://user-images.githubusercontent.com/52329525/216803605-42e3983d-0191-44d2-876d-af7ef5514da1.png)
-Chat Page:
-![image](https://user-images.githubusercontent.com/52329525/216803407-d4042e35-774d-442f-966c-7558dd86a222.png)
-News Page:
-![image](https://user-images.githubusercontent.com/52329525/216803414-afab688d-481c-4076-b850-b882a1042800.png)
-NFTs Page:
-![image](https://user-images.githubusercontent.com/52329525/216803417-9e8d288b-7fc7-4a16-9deb-0a14a189e711.png)
+![WhatsApp Image 2023-09-15 at 11 47 15 PM (1)](https://github.com/dishantzaveri/YashHackathon_Futurify/assets/80118978/3384c4c3-66c1-4216-93b9-5c7ac849ea66)
+
+![WhatsApp Image 2023-09-15 at 11 51 55 PM (1)](https://github.com/dishantzaveri/YashHackathon_Futurify/assets/80118978/5c5d990b-3a33-48c6-b007-d84b97f46dab)
+
 
 **Business Challenge / Opportunity**
 
