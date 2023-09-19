@@ -1,2 +1,0 @@
-# YASH-Hackathon
-Yashashvi bhava
