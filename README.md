@@ -5,7 +5,7 @@
 Website:
 
 Home Page:
-![image]([https://user-images.githubusercontent.com/52329525/216803382-b9be8a56-c34b-4757-a142-f05d2abaf8ec.png](https://github.com/dishantzaveri/YashHackathon_Futurify/blob/images/WhatsApp%20Image%202023-09-15%20at%2011.46.51%20PM%20(1).jpeg))
+![image](https://github.com/dishantzaveri/YashHackathon_Futurify/blob/images/WhatsApp%20Image%202023-09-15%20at%2011.46.51%20PM%20(1).jpeg)
 Admin Page:
 ![image](https://user-images.githubusercontent.com/52329525/216803389-b4b584dd-3435-4d8a-abb3-9d676b00bb61.png)
 Voting Page:
